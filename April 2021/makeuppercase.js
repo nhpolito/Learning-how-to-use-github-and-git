@@ -1,0 +1,3 @@
+upper = x => {
+  x.split
+}
